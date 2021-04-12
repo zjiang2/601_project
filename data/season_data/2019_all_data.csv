@@ -1,0 +1,257 @@
+,Date,Time,Datetime,Home,Away,Home Win
+0,2019-09-05,8:20PM,2019-09-05 20:20:00,Chicago Bears,Green Bay Packers,0
+1,2019-09-08,1:00PM,2019-09-08 13:00:00,Minnesota Vikings,Atlanta Falcons,1
+2,2019-09-08,1:00PM,2019-09-08 13:00:00,New York Jets,Buffalo Bills,0
+3,2019-09-08,1:00PM,2019-09-08 13:00:00,Philadelphia Eagles,Washington Redskins,1
+4,2019-09-08,1:00PM,2019-09-08 13:00:00,Cleveland Browns,Tennessee Titans,0
+5,2019-09-08,1:00PM,2019-09-08 13:00:00,Carolina Panthers,Los Angeles Rams,0
+6,2019-09-08,1:00PM,2019-09-08 13:00:00,Jacksonville Jaguars,Kansas City Chiefs,0
+7,2019-09-08,1:00PM,2019-09-08 13:00:00,Miami Dolphins,Baltimore Ravens,0
+8,2019-09-08,4:05PM,2019-09-08 16:05:00,Seattle Seahawks,Cincinnati Bengals,1
+9,2019-09-08,4:05PM,2019-09-08 16:05:00,Los Angeles Chargers,Indianapolis Colts,1
+10,2019-09-08,4:25PM,2019-09-08 16:25:00,Arizona Cardinals,Detroit Lions,0
+11,2019-09-08,4:25PM,2019-09-08 16:25:00,Dallas Cowboys,New York Giants,1
+12,2019-09-08,4:25PM,2019-09-08 16:25:00,Tampa Bay Buccaneers,San Francisco 49ers,0
+13,2019-09-08,8:20PM,2019-09-08 20:20:00,New England Patriots,Pittsburgh Steelers,1
+14,2019-09-09,7:10PM,2019-09-09 19:10:00,New Orleans Saints,Houston Texans,1
+15,2019-09-09,10:20PM,2019-09-09 22:20:00,Oakland Raiders,Denver Broncos,1
+16,2019-09-12,8:20PM,2019-09-12 20:20:00,Carolina Panthers,Tampa Bay Buccaneers,0
+17,2019-09-15,1:00PM,2019-09-15 13:00:00,Baltimore Ravens,Arizona Cardinals,1
+18,2019-09-15,1:00PM,2019-09-15 13:00:00,Washington Redskins,Dallas Cowboys,0
+19,2019-09-15,1:00PM,2019-09-15 13:00:00,Pittsburgh Steelers,Seattle Seahawks,0
+20,2019-09-15,1:00PM,2019-09-15 13:00:00,Green Bay Packers,Minnesota Vikings,1
+21,2019-09-15,1:00PM,2019-09-15 13:00:00,Houston Texans,Jacksonville Jaguars,1
+22,2019-09-15,1:00PM,2019-09-15 13:00:00,Cincinnati Bengals,San Francisco 49ers,0
+23,2019-09-15,1:00PM,2019-09-15 13:00:00,Tennessee Titans,Indianapolis Colts,0
+24,2019-09-15,1:00PM,2019-09-15 13:00:00,Miami Dolphins,New England Patriots,0
+25,2019-09-15,1:00PM,2019-09-15 13:00:00,New York Giants,Buffalo Bills,0
+26,2019-09-15,1:00PM,2019-09-15 13:00:00,Detroit Lions,Los Angeles Chargers,1
+27,2019-09-15,4:05PM,2019-09-15 16:05:00,Oakland Raiders,Kansas City Chiefs,0
+28,2019-09-15,4:25PM,2019-09-15 16:25:00,Denver Broncos,Chicago Bears,0
+29,2019-09-15,4:25PM,2019-09-15 16:25:00,Los Angeles Rams,New Orleans Saints,1
+30,2019-09-15,8:20PM,2019-09-15 20:20:00,Atlanta Falcons,Philadelphia Eagles,1
+31,2019-09-16,8:15PM,2019-09-16 20:15:00,New York Jets,Cleveland Browns,0
+32,2019-09-19,8:20PM,2019-09-19 20:20:00,Jacksonville Jaguars,Tennessee Titans,1
+33,2019-09-22,1:00PM,2019-09-22 13:00:00,Indianapolis Colts,Atlanta Falcons,1
+34,2019-09-22,1:00PM,2019-09-22 13:00:00,New England Patriots,New York Jets,1
+35,2019-09-22,1:00PM,2019-09-22 13:00:00,Buffalo Bills,Cincinnati Bengals,1
+36,2019-09-22,1:00PM,2019-09-22 13:00:00,Green Bay Packers,Denver Broncos,1
+37,2019-09-22,1:00PM,2019-09-22 13:00:00,Philadelphia Eagles,Detroit Lions,0
+38,2019-09-22,1:00PM,2019-09-22 13:00:00,Kansas City Chiefs,Baltimore Ravens,1
+39,2019-09-22,1:00PM,2019-09-22 13:00:00,Minnesota Vikings,Oakland Raiders,1
+40,2019-09-22,1:00PM,2019-09-22 13:00:00,Dallas Cowboys,Miami Dolphins,1
+41,2019-09-22,4:05PM,2019-09-22 16:05:00,Tampa Bay Buccaneers,New York Giants,0
+42,2019-09-22,4:05PM,2019-09-22 16:05:00,Arizona Cardinals,Carolina Panthers,0
+43,2019-09-22,4:25PM,2019-09-22 16:25:00,Seattle Seahawks,New Orleans Saints,0
+44,2019-09-22,4:25PM,2019-09-22 16:25:00,San Francisco 49ers,Pittsburgh Steelers,1
+45,2019-09-22,4:25PM,2019-09-22 16:25:00,Los Angeles Chargers,Houston Texans,0
+46,2019-09-22,8:20PM,2019-09-22 20:20:00,Cleveland Browns,Los Angeles Rams,0
+47,2019-09-23,8:15PM,2019-09-23 20:15:00,Washington Redskins,Chicago Bears,0
+48,2019-09-26,8:20PM,2019-09-26 20:20:00,Green Bay Packers,Philadelphia Eagles,0
+49,2019-09-29,1:00PM,2019-09-29 13:00:00,New York Giants,Washington Redskins,1
+50,2019-09-29,1:00PM,2019-09-29 13:00:00,Houston Texans,Carolina Panthers,0
+51,2019-09-29,1:00PM,2019-09-29 13:00:00,Atlanta Falcons,Tennessee Titans,0
+52,2019-09-29,1:00PM,2019-09-29 13:00:00,Buffalo Bills,New England Patriots,0
+53,2019-09-29,1:00PM,2019-09-29 13:00:00,Detroit Lions,Kansas City Chiefs,0
+54,2019-09-29,1:00PM,2019-09-29 13:00:00,Baltimore Ravens,Cleveland Browns,0
+55,2019-09-29,1:00PM,2019-09-29 13:00:00,Indianapolis Colts,Oakland Raiders,0
+56,2019-09-29,1:00PM,2019-09-29 13:00:00,Miami Dolphins,Los Angeles Chargers,0
+57,2019-09-29,4:05PM,2019-09-29 16:05:00,Los Angeles Rams,Tampa Bay Buccaneers,0
+58,2019-09-29,4:05PM,2019-09-29 16:05:00,Arizona Cardinals,Seattle Seahawks,0
+59,2019-09-29,4:25PM,2019-09-29 16:25:00,Chicago Bears,Minnesota Vikings,1
+60,2019-09-29,4:25PM,2019-09-29 16:25:00,Denver Broncos,Jacksonville Jaguars,0
+61,2019-09-29,8:20PM,2019-09-29 20:20:00,New Orleans Saints,Dallas Cowboys,1
+62,2019-09-30,8:15PM,2019-09-30 20:15:00,Pittsburgh Steelers,Cincinnati Bengals,1
+63,2019-10-03,8:20PM,2019-10-03 20:20:00,Seattle Seahawks,Los Angeles Rams,1
+64,2019-10-06,1:00PM,2019-10-06 13:00:00,Philadelphia Eagles,New York Jets,1
+65,2019-10-06,1:00PM,2019-10-06 13:00:00,New York Giants,Minnesota Vikings,0
+66,2019-10-06,1:00PM,2019-10-06 13:00:00,Houston Texans,Atlanta Falcons,1
+67,2019-10-06,1:00PM,2019-10-06 13:00:00,Tennessee Titans,Buffalo Bills,0
+68,2019-10-06,1:00PM,2019-10-06 13:00:00,Pittsburgh Steelers,Baltimore Ravens,0
+69,2019-10-06,1:00PM,2019-10-06 13:00:00,Cincinnati Bengals,Arizona Cardinals,0
+70,2019-10-06,1:00PM,2019-10-06 13:00:00,New Orleans Saints,Tampa Bay Buccaneers,1
+71,2019-10-06,1:00PM,2019-10-06 13:00:00,Washington Redskins,New England Patriots,0
+72,2019-10-06,1:00PM,2019-10-06 13:00:00,Carolina Panthers,Jacksonville Jaguars,1
+73,2019-10-06,1:00PM,2019-10-06 13:00:00,Oakland Raiders,Chicago Bears,1
+74,2019-10-06,4:05PM,2019-10-06 16:05:00,Los Angeles Chargers,Denver Broncos,0
+75,2019-10-06,4:25PM,2019-10-06 16:25:00,Dallas Cowboys,Green Bay Packers,0
+76,2019-10-06,8:20PM,2019-10-06 20:20:00,Kansas City Chiefs,Indianapolis Colts,0
+77,2019-10-07,8:15PM,2019-10-07 20:15:00,San Francisco 49ers,Cleveland Browns,1
+78,2019-10-10,8:20PM,2019-10-10 20:20:00,New England Patriots,New York Giants,1
+79,2019-10-13,9:30AM,2019-10-13 09:30:00,Tampa Bay Buccaneers,Carolina Panthers,0
+80,2019-10-13,1:00PM,2019-10-13 13:00:00,Miami Dolphins,Washington Redskins,0
+81,2019-10-13,1:00PM,2019-10-13 13:00:00,Kansas City Chiefs,Houston Texans,0
+82,2019-10-13,1:00PM,2019-10-13 13:00:00,Minnesota Vikings,Philadelphia Eagles,1
+83,2019-10-13,1:00PM,2019-10-13 13:00:00,Baltimore Ravens,Cincinnati Bengals,1
+84,2019-10-13,1:00PM,2019-10-13 13:00:00,Jacksonville Jaguars,New Orleans Saints,0
+85,2019-10-13,1:00PM,2019-10-13 13:00:00,Cleveland Browns,Seattle Seahawks,0
+86,2019-10-13,4:05PM,2019-10-13 16:05:00,Los Angeles Rams,San Francisco 49ers,0
+87,2019-10-13,4:05PM,2019-10-13 16:05:00,Arizona Cardinals,Atlanta Falcons,1
+88,2019-10-13,4:25PM,2019-10-13 16:25:00,New York Jets,Dallas Cowboys,1
+89,2019-10-13,4:25PM,2019-10-13 16:25:00,Denver Broncos,Tennessee Titans,1
+90,2019-10-13,8:20PM,2019-10-13 20:20:00,Los Angeles Chargers,Pittsburgh Steelers,0
+91,2019-10-14,8:15PM,2019-10-14 20:15:00,Green Bay Packers,Detroit Lions,1
+92,2019-10-17,8:20PM,2019-10-17 20:20:00,Denver Broncos,Kansas City Chiefs,0
+93,2019-10-20,1:00PM,2019-10-20 13:00:00,Washington Redskins,San Francisco 49ers,0
+94,2019-10-20,1:00PM,2019-10-20 13:00:00,Buffalo Bills,Miami Dolphins,1
+95,2019-10-20,1:00PM,2019-10-20 13:00:00,Detroit Lions,Minnesota Vikings,0
+96,2019-10-20,1:00PM,2019-10-20 13:00:00,Indianapolis Colts,Houston Texans,1
+97,2019-10-20,1:00PM,2019-10-20 13:00:00,New York Giants,Arizona Cardinals,0
+98,2019-10-20,1:00PM,2019-10-20 13:00:00,Atlanta Falcons,Los Angeles Rams,0
+99,2019-10-20,1:00PM,2019-10-20 13:00:00,Green Bay Packers,Oakland Raiders,1
+100,2019-10-20,1:00PM,2019-10-20 13:00:00,Cincinnati Bengals,Jacksonville Jaguars,0
+101,2019-10-20,4:05PM,2019-10-20 16:05:00,Tennessee Titans,Los Angeles Chargers,1
+102,2019-10-20,4:25PM,2019-10-20 16:25:00,Chicago Bears,New Orleans Saints,0
+103,2019-10-20,4:25PM,2019-10-20 16:25:00,Seattle Seahawks,Baltimore Ravens,0
+104,2019-10-20,8:20PM,2019-10-20 20:20:00,Dallas Cowboys,Philadelphia Eagles,1
+105,2019-10-21,8:15PM,2019-10-21 20:15:00,New York Jets,New England Patriots,0
+106,2019-10-24,8:20PM,2019-10-24 20:20:00,Minnesota Vikings,Washington Redskins,1
+107,2019-10-27,1:00PM,2019-10-27 13:00:00,Buffalo Bills,Philadelphia Eagles,0
+108,2019-10-27,1:00PM,2019-10-27 13:00:00,Detroit Lions,New York Giants,1
+109,2019-10-27,1:00PM,2019-10-27 13:00:00,Indianapolis Colts,Denver Broncos,1
+110,2019-10-27,1:00PM,2019-10-27 13:00:00,Chicago Bears,Los Angeles Chargers,0
+111,2019-10-27,1:00PM,2019-10-27 13:00:00,Jacksonville Jaguars,New York Jets,1
+112,2019-10-27,1:00PM,2019-10-27 13:00:00,New Orleans Saints,Arizona Cardinals,1
+113,2019-10-27,1:00PM,2019-10-27 13:00:00,Atlanta Falcons,Seattle Seahawks,0
+114,2019-10-27,1:00PM,2019-10-27 13:00:00,Tennessee Titans,Tampa Bay Buccaneers,1
+115,2019-10-27,1:00PM,2019-10-27 13:00:00,Los Angeles Rams,Cincinnati Bengals,1
+116,2019-10-27,4:05PM,2019-10-27 16:05:00,San Francisco 49ers,Carolina Panthers,1
+117,2019-10-27,4:25PM,2019-10-27 16:25:00,New England Patriots,Cleveland Browns,1
+118,2019-10-27,4:25PM,2019-10-27 16:25:00,Houston Texans,Oakland Raiders,1
+119,2019-10-27,8:20PM,2019-10-27 20:20:00,Kansas City Chiefs,Green Bay Packers,0
+120,2019-10-28,8:15PM,2019-10-28 20:15:00,Pittsburgh Steelers,Miami Dolphins,1
+121,2019-10-31,8:20PM,2019-10-31 20:20:00,Arizona Cardinals,San Francisco 49ers,0
+122,2019-11-03,9:30AM,2019-11-03 09:30:00,Jacksonville Jaguars,Houston Texans,0
+123,2019-11-03,1:00PM,2019-11-03 13:00:00,Carolina Panthers,Tennessee Titans,1
+124,2019-11-03,1:00PM,2019-11-03 13:00:00,Philadelphia Eagles,Chicago Bears,1
+125,2019-11-03,1:00PM,2019-11-03 13:00:00,Miami Dolphins,New York Jets,1
+126,2019-11-03,1:00PM,2019-11-03 13:00:00,Buffalo Bills,Washington Redskins,1
+127,2019-11-03,1:00PM,2019-11-03 13:00:00,Pittsburgh Steelers,Indianapolis Colts,1
+128,2019-11-03,1:00PM,2019-11-03 13:00:00,Kansas City Chiefs,Minnesota Vikings,1
+129,2019-11-03,4:05PM,2019-11-03 16:05:00,Oakland Raiders,Detroit Lions,1
+130,2019-11-03,4:05PM,2019-11-03 16:05:00,Seattle Seahawks,Tampa Bay Buccaneers,1
+131,2019-11-03,4:25PM,2019-11-03 16:25:00,Denver Broncos,Cleveland Browns,1
+132,2019-11-03,4:25PM,2019-11-03 16:25:00,Los Angeles Chargers,Green Bay Packers,1
+133,2019-11-03,8:20PM,2019-11-03 20:20:00,Baltimore Ravens,New England Patriots,1
+134,2019-11-04,8:15PM,2019-11-04 20:15:00,New York Giants,Dallas Cowboys,0
+135,2019-11-07,8:20PM,2019-11-07 20:20:00,Oakland Raiders,Los Angeles Chargers,1
+136,2019-11-10,1:00PM,2019-11-10 13:00:00,New Orleans Saints,Atlanta Falcons,0
+137,2019-11-10,1:00PM,2019-11-10 13:00:00,Cleveland Browns,Buffalo Bills,1
+138,2019-11-10,1:00PM,2019-11-10 13:00:00,Cincinnati Bengals,Baltimore Ravens,0
+139,2019-11-10,1:00PM,2019-11-10 13:00:00,Chicago Bears,Detroit Lions,1
+140,2019-11-10,1:00PM,2019-11-10 13:00:00,Tennessee Titans,Kansas City Chiefs,1
+141,2019-11-10,1:00PM,2019-11-10 13:00:00,Tampa Bay Buccaneers,Arizona Cardinals,1
+142,2019-11-10,1:00PM,2019-11-10 13:00:00,New York Jets,New York Giants,1
+143,2019-11-10,4:05PM,2019-11-10 16:05:00,Indianapolis Colts,Miami Dolphins,0
+144,2019-11-10,4:25PM,2019-11-10 16:25:00,Pittsburgh Steelers,Los Angeles Rams,1
+145,2019-11-10,4:25PM,2019-11-10 16:25:00,Green Bay Packers,Carolina Panthers,1
+146,2019-11-10,8:20PM,2019-11-10 20:20:00,Dallas Cowboys,Minnesota Vikings,0
+147,2019-11-11,8:15PM,2019-11-11 20:15:00,San Francisco 49ers,Seattle Seahawks,0
+148,2019-11-14,8:20PM,2019-11-14 20:20:00,Cleveland Browns,Pittsburgh Steelers,1
+149,2019-11-17,1:00PM,2019-11-17 13:00:00,Tampa Bay Buccaneers,New Orleans Saints,0
+150,2019-11-17,1:00PM,2019-11-17 13:00:00,Detroit Lions,Dallas Cowboys,0
+151,2019-11-17,1:00PM,2019-11-17 13:00:00,Washington Redskins,New York Jets,0
+152,2019-11-17,1:00PM,2019-11-17 13:00:00,Carolina Panthers,Atlanta Falcons,0
+153,2019-11-17,1:00PM,2019-11-17 13:00:00,Miami Dolphins,Buffalo Bills,0
+154,2019-11-17,1:00PM,2019-11-17 13:00:00,Minnesota Vikings,Denver Broncos,1
+155,2019-11-17,1:00PM,2019-11-17 13:00:00,Baltimore Ravens,Houston Texans,1
+156,2019-11-17,1:00PM,2019-11-17 13:00:00,Indianapolis Colts,Jacksonville Jaguars,1
+157,2019-11-17,4:05PM,2019-11-17 16:05:00,San Francisco 49ers,Arizona Cardinals,1
+158,2019-11-17,4:25PM,2019-11-17 16:25:00,Philadelphia Eagles,New England Patriots,0
+159,2019-11-17,4:25PM,2019-11-17 16:25:00,Oakland Raiders,Cincinnati Bengals,1
+160,2019-11-17,8:20PM,2019-11-17 20:20:00,Los Angeles Rams,Chicago Bears,1
+161,2019-11-18,8:15PM,2019-11-18 20:15:00,Los Angeles Chargers,Kansas City Chiefs,0
+162,2019-11-21,8:20PM,2019-11-21 20:20:00,Houston Texans,Indianapolis Colts,1
+163,2019-11-24,1:00PM,2019-11-24 13:00:00,Atlanta Falcons,Tampa Bay Buccaneers,0
+164,2019-11-24,1:00PM,2019-11-24 13:00:00,Buffalo Bills,Denver Broncos,1
+165,2019-11-24,1:00PM,2019-11-24 13:00:00,New Orleans Saints,Carolina Panthers,1
+166,2019-11-24,1:00PM,2019-11-24 13:00:00,Washington Redskins,Detroit Lions,1
+167,2019-11-24,1:00PM,2019-11-24 13:00:00,Cincinnati Bengals,Pittsburgh Steelers,0
+168,2019-11-24,1:00PM,2019-11-24 13:00:00,New York Jets,Oakland Raiders,1
+169,2019-11-24,1:00PM,2019-11-24 13:00:00,Philadelphia Eagles,Seattle Seahawks,0
+170,2019-11-24,1:00PM,2019-11-24 13:00:00,Chicago Bears,New York Giants,1
+171,2019-11-24,1:00PM,2019-11-24 13:00:00,Cleveland Browns,Miami Dolphins,1
+172,2019-11-24,4:05PM,2019-11-24 16:05:00,Tennessee Titans,Jacksonville Jaguars,1
+173,2019-11-24,4:25PM,2019-11-24 16:25:00,New England Patriots,Dallas Cowboys,1
+174,2019-11-24,8:20PM,2019-11-24 20:20:00,San Francisco 49ers,Green Bay Packers,1
+175,2019-11-25,8:15PM,2019-11-25 20:15:00,Los Angeles Rams,Baltimore Ravens,0
+176,2019-11-28,12:30PM,2019-11-28 12:30:00,Detroit Lions,Chicago Bears,0
+177,2019-11-28,4:30PM,2019-11-28 16:30:00,Dallas Cowboys,Buffalo Bills,0
+178,2019-11-28,8:20PM,2019-11-28 20:20:00,Atlanta Falcons,New Orleans Saints,0
+179,2019-12-01,1:00PM,2019-12-01 13:00:00,New York Giants,Green Bay Packers,0
+180,2019-12-01,1:00PM,2019-12-01 13:00:00,Jacksonville Jaguars,Tampa Bay Buccaneers,0
+181,2019-12-01,1:00PM,2019-12-01 13:00:00,Pittsburgh Steelers,Cleveland Browns,1
+182,2019-12-01,1:00PM,2019-12-01 13:00:00,Carolina Panthers,Washington Redskins,0
+183,2019-12-01,1:00PM,2019-12-01 13:00:00,Baltimore Ravens,San Francisco 49ers,1
+184,2019-12-01,1:00PM,2019-12-01 13:00:00,Cincinnati Bengals,New York Jets,1
+185,2019-12-01,1:00PM,2019-12-01 13:00:00,Miami Dolphins,Philadelphia Eagles,1
+186,2019-12-01,1:00PM,2019-12-01 13:00:00,Indianapolis Colts,Tennessee Titans,0
+187,2019-12-01,4:05PM,2019-12-01 16:05:00,Arizona Cardinals,Los Angeles Rams,0
+188,2019-12-01,4:25PM,2019-12-01 16:25:00,Denver Broncos,Los Angeles Chargers,1
+189,2019-12-01,4:25PM,2019-12-01 16:25:00,Kansas City Chiefs,Oakland Raiders,1
+190,2019-12-01,8:20PM,2019-12-01 20:20:00,Houston Texans,New England Patriots,1
+191,2019-12-02,8:15PM,2019-12-02 20:15:00,Seattle Seahawks,Minnesota Vikings,1
+192,2019-12-05,8:20PM,2019-12-05 20:20:00,Chicago Bears,Dallas Cowboys,1
+193,2019-12-08,1:00PM,2019-12-08 13:00:00,Atlanta Falcons,Carolina Panthers,1
+194,2019-12-08,1:00PM,2019-12-08 13:00:00,Buffalo Bills,Baltimore Ravens,0
+195,2019-12-08,1:00PM,2019-12-08 13:00:00,Cleveland Browns,Cincinnati Bengals,1
+196,2019-12-08,1:00PM,2019-12-08 13:00:00,New York Jets,Miami Dolphins,1
+197,2019-12-08,1:00PM,2019-12-08 13:00:00,Tampa Bay Buccaneers,Indianapolis Colts,1
+198,2019-12-08,1:00PM,2019-12-08 13:00:00,New Orleans Saints,San Francisco 49ers,0
+199,2019-12-08,1:00PM,2019-12-08 13:00:00,Houston Texans,Denver Broncos,0
+200,2019-12-08,1:00PM,2019-12-08 13:00:00,Minnesota Vikings,Detroit Lions,1
+201,2019-12-08,1:00PM,2019-12-08 13:00:00,Green Bay Packers,Washington Redskins,1
+202,2019-12-08,4:05PM,2019-12-08 16:05:00,Jacksonville Jaguars,Los Angeles Chargers,0
+203,2019-12-08,4:25PM,2019-12-08 16:25:00,Arizona Cardinals,Pittsburgh Steelers,0
+204,2019-12-08,4:25PM,2019-12-08 16:25:00,Oakland Raiders,Tennessee Titans,0
+205,2019-12-08,4:25PM,2019-12-08 16:25:00,New England Patriots,Kansas City Chiefs,0
+206,2019-12-08,8:20PM,2019-12-08 20:20:00,Los Angeles Rams,Seattle Seahawks,1
+207,2019-12-09,8:15PM,2019-12-09 20:15:00,Philadelphia Eagles,New York Giants,1
+208,2019-12-12,8:20PM,2019-12-12 20:20:00,Baltimore Ravens,New York Jets,1
+209,2019-12-15,1:00PM,2019-12-15 13:00:00,Kansas City Chiefs,Denver Broncos,1
+210,2019-12-15,1:00PM,2019-12-15 13:00:00,Washington Redskins,Philadelphia Eagles,0
+211,2019-12-15,1:00PM,2019-12-15 13:00:00,Carolina Panthers,Seattle Seahawks,0
+212,2019-12-15,1:00PM,2019-12-15 13:00:00,Detroit Lions,Tampa Bay Buccaneers,0
+213,2019-12-15,1:00PM,2019-12-15 13:00:00,Green Bay Packers,Chicago Bears,1
+214,2019-12-15,1:00PM,2019-12-15 13:00:00,Tennessee Titans,Houston Texans,0
+215,2019-12-15,1:00PM,2019-12-15 13:00:00,Cincinnati Bengals,New England Patriots,0
+216,2019-12-15,1:00PM,2019-12-15 13:00:00,New York Giants,Miami Dolphins,1
+217,2019-12-15,4:05PM,2019-12-15 16:05:00,Los Angeles Chargers,Minnesota Vikings,0
+218,2019-12-15,4:05PM,2019-12-15 16:05:00,Oakland Raiders,Jacksonville Jaguars,0
+219,2019-12-15,4:05PM,2019-12-15 16:05:00,Arizona Cardinals,Cleveland Browns,1
+220,2019-12-15,4:25PM,2019-12-15 16:25:00,Dallas Cowboys,Los Angeles Rams,1
+221,2019-12-15,4:25PM,2019-12-15 16:25:00,San Francisco 49ers,Atlanta Falcons,0
+222,2019-12-15,8:20PM,2019-12-15 20:20:00,Pittsburgh Steelers,Buffalo Bills,0
+223,2019-12-16,8:15PM,2019-12-16 20:15:00,New Orleans Saints,Indianapolis Colts,1
+224,2019-12-21,1:00PM,2019-12-21 13:00:00,Tampa Bay Buccaneers,Houston Texans,0
+225,2019-12-21,4:30PM,2019-12-21 16:30:00,New England Patriots,Buffalo Bills,1
+226,2019-12-21,8:15PM,2019-12-21 20:15:00,San Francisco 49ers,Los Angeles Rams,1
+227,2019-12-22,1:00PM,2019-12-22 13:00:00,Tennessee Titans,New Orleans Saints,0
+228,2019-12-22,1:00PM,2019-12-22 13:00:00,Atlanta Falcons,Jacksonville Jaguars,1
+229,2019-12-22,1:00PM,2019-12-22 13:00:00,Miami Dolphins,Cincinnati Bengals,1
+230,2019-12-22,1:00PM,2019-12-22 13:00:00,Cleveland Browns,Baltimore Ravens,0
+231,2019-12-22,1:00PM,2019-12-22 13:00:00,Washington Redskins,New York Giants,0
+232,2019-12-22,1:00PM,2019-12-22 13:00:00,New York Jets,Pittsburgh Steelers,1
+233,2019-12-22,1:00PM,2019-12-22 13:00:00,Indianapolis Colts,Carolina Panthers,1
+234,2019-12-22,4:05PM,2019-12-22 16:05:00,Denver Broncos,Detroit Lions,1
+235,2019-12-22,4:05PM,2019-12-22 16:05:00,Los Angeles Chargers,Oakland Raiders,0
+236,2019-12-22,4:25PM,2019-12-22 16:25:00,Seattle Seahawks,Arizona Cardinals,0
+237,2019-12-22,4:25PM,2019-12-22 16:25:00,Philadelphia Eagles,Dallas Cowboys,1
+238,2019-12-22,8:20PM,2019-12-22 20:20:00,Chicago Bears,Kansas City Chiefs,0
+239,2019-12-23,8:15PM,2019-12-23 20:15:00,Minnesota Vikings,Green Bay Packers,0
+240,2019-12-29,1:00PM,2019-12-29 13:00:00,Carolina Panthers,New Orleans Saints,0
+241,2019-12-29,1:00PM,2019-12-29 13:00:00,Minnesota Vikings,Chicago Bears,0
+242,2019-12-29,1:00PM,2019-12-29 13:00:00,Kansas City Chiefs,Los Angeles Chargers,1
+243,2019-12-29,1:00PM,2019-12-29 13:00:00,New England Patriots,Miami Dolphins,0
+244,2019-12-29,1:00PM,2019-12-29 13:00:00,Tampa Bay Buccaneers,Atlanta Falcons,0
+245,2019-12-29,1:00PM,2019-12-29 13:00:00,Buffalo Bills,New York Jets,0
+246,2019-12-29,1:00PM,2019-12-29 13:00:00,Detroit Lions,Green Bay Packers,0
+247,2019-12-29,1:00PM,2019-12-29 13:00:00,Cincinnati Bengals,Cleveland Browns,1
+248,2019-12-29,4:25PM,2019-12-29 16:25:00,Jacksonville Jaguars,Indianapolis Colts,1
+249,2019-12-29,4:25PM,2019-12-29 16:25:00,Los Angeles Rams,Arizona Cardinals,1
+250,2019-12-29,4:25PM,2019-12-29 16:25:00,New York Giants,Philadelphia Eagles,0
+251,2019-12-29,4:25PM,2019-12-29 16:25:00,Dallas Cowboys,Washington Redskins,1
+252,2019-12-29,4:25PM,2019-12-29 16:25:00,Denver Broncos,Oakland Raiders,1
+253,2019-12-29,4:25PM,2019-12-29 16:25:00,Baltimore Ravens,Pittsburgh Steelers,1
+254,2019-12-29,4:25PM,2019-12-29 16:25:00,Houston Texans,Tennessee Titans,0
+255,2019-12-29,8:20PM,2019-12-29 20:20:00,Seattle Seahawks,San Francisco 49ers,0

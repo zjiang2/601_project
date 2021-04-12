@@ -1,0 +1,257 @@
+,Date,Time,Datetime,Home,Away,Home Win
+0,2017-09-07,8:30PM,2017-09-07 20:30:00,New England Patriots,Kansas City Chiefs,0
+1,2017-09-10,1:00PM,2017-09-10 13:00:00,Chicago Bears,Atlanta Falcons,0
+2,2017-09-10,1:00PM,2017-09-10 13:00:00,Buffalo Bills,New York Jets,1
+3,2017-09-10,1:00PM,2017-09-10 13:00:00,Tennessee Titans,Oakland Raiders,0
+4,2017-09-10,1:00PM,2017-09-10 13:00:00,Washington Redskins,Philadelphia Eagles,0
+5,2017-09-10,1:00PM,2017-09-10 13:00:00,Cincinnati Bengals,Baltimore Ravens,0
+6,2017-09-10,1:00PM,2017-09-10 13:00:00,Cleveland Browns,Pittsburgh Steelers,0
+7,2017-09-10,1:00PM,2017-09-10 13:00:00,Detroit Lions,Arizona Cardinals,1
+8,2017-09-10,1:00PM,2017-09-10 13:00:00,Houston Texans,Jacksonville Jaguars,0
+9,2017-09-10,4:05PM,2017-09-10 16:05:00,Los Angeles Rams,Indianapolis Colts,1
+10,2017-09-10,4:25PM,2017-09-10 16:25:00,San Francisco 49ers,Carolina Panthers,0
+11,2017-09-10,4:25PM,2017-09-10 16:25:00,Green Bay Packers,Seattle Seahawks,1
+12,2017-09-10,8:30PM,2017-09-10 20:30:00,Dallas Cowboys,New York Giants,1
+13,2017-09-11,7:10PM,2017-09-11 19:10:00,Minnesota Vikings,New Orleans Saints,1
+14,2017-09-11,10:20PM,2017-09-11 22:20:00,Denver Broncos,Los Angeles Chargers,1
+15,2017-09-14,8:25PM,2017-09-14 20:25:00,Cincinnati Bengals,Houston Texans,0
+16,2017-09-17,1:00PM,2017-09-17 13:00:00,Tampa Bay Buccaneers,Chicago Bears,1
+17,2017-09-17,1:00PM,2017-09-17 13:00:00,Jacksonville Jaguars,Tennessee Titans,0
+18,2017-09-17,1:00PM,2017-09-17 13:00:00,Kansas City Chiefs,Philadelphia Eagles,1
+19,2017-09-17,1:00PM,2017-09-17 13:00:00,Indianapolis Colts,Arizona Cardinals,0
+20,2017-09-17,1:00PM,2017-09-17 13:00:00,Pittsburgh Steelers,Minnesota Vikings,1
+21,2017-09-17,1:00PM,2017-09-17 13:00:00,New Orleans Saints,New England Patriots,0
+22,2017-09-17,1:00PM,2017-09-17 13:00:00,Carolina Panthers,Buffalo Bills,1
+23,2017-09-17,1:00PM,2017-09-17 13:00:00,Baltimore Ravens,Cleveland Browns,1
+24,2017-09-17,4:05PM,2017-09-17 16:05:00,Los Angeles Chargers,Miami Dolphins,0
+25,2017-09-17,4:05PM,2017-09-17 16:05:00,Oakland Raiders,New York Jets,1
+26,2017-09-17,4:25PM,2017-09-17 16:25:00,Denver Broncos,Dallas Cowboys,1
+27,2017-09-17,4:25PM,2017-09-17 16:25:00,Los Angeles Rams,Washington Redskins,0
+28,2017-09-17,4:25PM,2017-09-17 16:25:00,Seattle Seahawks,San Francisco 49ers,1
+29,2017-09-17,8:30PM,2017-09-17 20:30:00,Atlanta Falcons,Green Bay Packers,1
+30,2017-09-18,8:30PM,2017-09-18 20:30:00,New York Giants,Detroit Lions,0
+31,2017-09-21,8:25PM,2017-09-21 20:25:00,San Francisco 49ers,Los Angeles Rams,0
+32,2017-09-24,9:30AM,2017-09-24 09:30:00,Jacksonville Jaguars,Baltimore Ravens,1
+33,2017-09-24,1:00PM,2017-09-24 13:00:00,New York Jets,Miami Dolphins,1
+34,2017-09-24,1:00PM,2017-09-24 13:00:00,Detroit Lions,Atlanta Falcons,0
+35,2017-09-24,1:00PM,2017-09-24 13:00:00,Buffalo Bills,Denver Broncos,1
+36,2017-09-24,1:00PM,2017-09-24 13:00:00,New England Patriots,Houston Texans,1
+37,2017-09-24,1:00PM,2017-09-24 13:00:00,Indianapolis Colts,Cleveland Browns,1
+38,2017-09-24,1:00PM,2017-09-24 13:00:00,Minnesota Vikings,Tampa Bay Buccaneers,1
+39,2017-09-24,1:00PM,2017-09-24 13:00:00,Philadelphia Eagles,New York Giants,1
+40,2017-09-24,1:00PM,2017-09-24 13:00:00,Carolina Panthers,New Orleans Saints,0
+41,2017-09-24,1:00PM,2017-09-24 13:00:00,Chicago Bears,Pittsburgh Steelers,1
+42,2017-09-24,4:05PM,2017-09-24 16:05:00,Tennessee Titans,Seattle Seahawks,1
+43,2017-09-24,4:25PM,2017-09-24 16:25:00,Green Bay Packers,Cincinnati Bengals,1
+44,2017-09-24,4:25PM,2017-09-24 16:25:00,Los Angeles Chargers,Kansas City Chiefs,0
+45,2017-09-24,8:30PM,2017-09-24 20:30:00,Washington Redskins,Oakland Raiders,1
+46,2017-09-25,8:30PM,2017-09-25 20:30:00,Arizona Cardinals,Dallas Cowboys,0
+47,2017-09-28,8:25PM,2017-09-28 20:25:00,Green Bay Packers,Chicago Bears,1
+48,2017-10-01,9:30AM,2017-10-01 09:30:00,Miami Dolphins,New Orleans Saints,0
+49,2017-10-01,1:00PM,2017-10-01 13:00:00,New England Patriots,Carolina Panthers,0
+50,2017-10-01,1:00PM,2017-10-01 13:00:00,Minnesota Vikings,Detroit Lions,0
+51,2017-10-01,1:00PM,2017-10-01 13:00:00,New York Jets,Jacksonville Jaguars,1
+52,2017-10-01,1:00PM,2017-10-01 13:00:00,Atlanta Falcons,Buffalo Bills,0
+53,2017-10-01,1:00PM,2017-10-01 13:00:00,Dallas Cowboys,Los Angeles Rams,0
+54,2017-10-01,1:00PM,2017-10-01 13:00:00,Baltimore Ravens,Pittsburgh Steelers,0
+55,2017-10-01,1:00PM,2017-10-01 13:00:00,Houston Texans,Tennessee Titans,1
+56,2017-10-01,1:00PM,2017-10-01 13:00:00,Cleveland Browns,Cincinnati Bengals,0
+57,2017-10-01,4:05PM,2017-10-01 16:05:00,Arizona Cardinals,San Francisco 49ers,1
+58,2017-10-01,4:05PM,2017-10-01 16:05:00,Tampa Bay Buccaneers,New York Giants,1
+59,2017-10-01,4:05PM,2017-10-01 16:05:00,Los Angeles Chargers,Philadelphia Eagles,0
+60,2017-10-01,4:25PM,2017-10-01 16:25:00,Denver Broncos,Oakland Raiders,1
+61,2017-10-01,8:30PM,2017-10-01 20:30:00,Seattle Seahawks,Indianapolis Colts,1
+62,2017-10-02,8:30PM,2017-10-02 20:30:00,Kansas City Chiefs,Washington Redskins,1
+63,2017-10-05,8:25PM,2017-10-05 20:25:00,Tampa Bay Buccaneers,New England Patriots,0
+64,2017-10-08,1:00PM,2017-10-08 13:00:00,Miami Dolphins,Tennessee Titans,1
+65,2017-10-08,1:00PM,2017-10-08 13:00:00,Indianapolis Colts,San Francisco 49ers,1
+66,2017-10-08,1:00PM,2017-10-08 13:00:00,Philadelphia Eagles,Arizona Cardinals,1
+67,2017-10-08,1:00PM,2017-10-08 13:00:00,Cincinnati Bengals,Buffalo Bills,1
+68,2017-10-08,1:00PM,2017-10-08 13:00:00,New York Giants,Los Angeles Chargers,0
+69,2017-10-08,1:00PM,2017-10-08 13:00:00,Detroit Lions,Carolina Panthers,0
+70,2017-10-08,1:00PM,2017-10-08 13:00:00,Pittsburgh Steelers,Jacksonville Jaguars,0
+71,2017-10-08,1:00PM,2017-10-08 13:00:00,Cleveland Browns,New York Jets,0
+72,2017-10-08,4:05PM,2017-10-08 16:05:00,Oakland Raiders,Baltimore Ravens,0
+73,2017-10-08,4:05PM,2017-10-08 16:05:00,Los Angeles Rams,Seattle Seahawks,0
+74,2017-10-08,4:25PM,2017-10-08 16:25:00,Dallas Cowboys,Green Bay Packers,0
+75,2017-10-08,8:30PM,2017-10-08 20:30:00,Houston Texans,Kansas City Chiefs,0
+76,2017-10-09,8:30PM,2017-10-09 20:30:00,Chicago Bears,Minnesota Vikings,0
+77,2017-10-12,8:25PM,2017-10-12 20:25:00,Carolina Panthers,Philadelphia Eagles,0
+78,2017-10-15,1:00PM,2017-10-15 13:00:00,Atlanta Falcons,Miami Dolphins,0
+79,2017-10-15,1:00PM,2017-10-15 13:00:00,New York Jets,New England Patriots,0
+80,2017-10-15,1:00PM,2017-10-15 13:00:00,Baltimore Ravens,Chicago Bears,0
+81,2017-10-15,1:00PM,2017-10-15 13:00:00,Washington Redskins,San Francisco 49ers,1
+82,2017-10-15,1:00PM,2017-10-15 13:00:00,Houston Texans,Cleveland Browns,1
+83,2017-10-15,1:00PM,2017-10-15 13:00:00,New Orleans Saints,Detroit Lions,1
+84,2017-10-15,1:00PM,2017-10-15 13:00:00,Minnesota Vikings,Green Bay Packers,1
+85,2017-10-15,4:05PM,2017-10-15 16:05:00,Arizona Cardinals,Tampa Bay Buccaneers,1
+86,2017-10-15,4:05PM,2017-10-15 16:05:00,Jacksonville Jaguars,Los Angeles Rams,0
+87,2017-10-15,4:25PM,2017-10-15 16:25:00,Oakland Raiders,Los Angeles Chargers,0
+88,2017-10-15,4:25PM,2017-10-15 16:25:00,Kansas City Chiefs,Pittsburgh Steelers,0
+89,2017-10-15,8:30PM,2017-10-15 20:30:00,Denver Broncos,New York Giants,0
+90,2017-10-16,8:30PM,2017-10-16 20:30:00,Tennessee Titans,Indianapolis Colts,1
+91,2017-10-19,8:25PM,2017-10-19 20:25:00,Oakland Raiders,Kansas City Chiefs,1
+92,2017-10-22,1:00PM,2017-10-22 13:00:00,Buffalo Bills,Tampa Bay Buccaneers,1
+93,2017-10-22,1:00PM,2017-10-22 13:00:00,Miami Dolphins,New York Jets,1
+94,2017-10-22,1:00PM,2017-10-22 13:00:00,Minnesota Vikings,Baltimore Ravens,1
+95,2017-10-22,1:00PM,2017-10-22 13:00:00,Green Bay Packers,New Orleans Saints,0
+96,2017-10-22,1:00PM,2017-10-22 13:00:00,Indianapolis Colts,Jacksonville Jaguars,0
+97,2017-10-22,1:00PM,2017-10-22 13:00:00,Los Angeles Rams,Arizona Cardinals,1
+98,2017-10-22,1:00PM,2017-10-22 13:00:00,Chicago Bears,Carolina Panthers,1
+99,2017-10-22,1:00PM,2017-10-22 13:00:00,Cleveland Browns,Tennessee Titans,0
+100,2017-10-22,4:05PM,2017-10-22 16:05:00,San Francisco 49ers,Dallas Cowboys,0
+101,2017-10-22,4:25PM,2017-10-22 16:25:00,Los Angeles Chargers,Denver Broncos,1
+102,2017-10-22,4:25PM,2017-10-22 16:25:00,Pittsburgh Steelers,Cincinnati Bengals,1
+103,2017-10-22,4:25PM,2017-10-22 16:25:00,New York Giants,Seattle Seahawks,0
+104,2017-10-22,8:30PM,2017-10-22 20:30:00,New England Patriots,Atlanta Falcons,1
+105,2017-10-23,8:30PM,2017-10-23 20:30:00,Philadelphia Eagles,Washington Redskins,1
+106,2017-10-26,8:25PM,2017-10-26 20:25:00,Baltimore Ravens,Miami Dolphins,1
+107,2017-10-29,9:30AM,2017-10-29 09:30:00,Cleveland Browns,Minnesota Vikings,0
+108,2017-10-29,1:00PM,2017-10-29 13:00:00,New York Jets,Atlanta Falcons,0
+109,2017-10-29,1:00PM,2017-10-29 13:00:00,Buffalo Bills,Oakland Raiders,1
+110,2017-10-29,1:00PM,2017-10-29 13:00:00,Cincinnati Bengals,Indianapolis Colts,1
+111,2017-10-29,1:00PM,2017-10-29 13:00:00,Tampa Bay Buccaneers,Carolina Panthers,0
+112,2017-10-29,1:00PM,2017-10-29 13:00:00,New England Patriots,Los Angeles Chargers,1
+113,2017-10-29,1:00PM,2017-10-29 13:00:00,Philadelphia Eagles,San Francisco 49ers,1
+114,2017-10-29,1:00PM,2017-10-29 13:00:00,New Orleans Saints,Chicago Bears,1
+115,2017-10-29,4:05PM,2017-10-29 16:05:00,Seattle Seahawks,Houston Texans,1
+116,2017-10-29,4:25PM,2017-10-29 16:25:00,Washington Redskins,Dallas Cowboys,0
+117,2017-10-29,8:30PM,2017-10-29 20:30:00,Detroit Lions,Pittsburgh Steelers,0
+118,2017-10-30,8:30PM,2017-10-30 20:30:00,Kansas City Chiefs,Denver Broncos,1
+119,2017-11-02,8:25PM,2017-11-02 20:25:00,New York Jets,Buffalo Bills,1
+120,2017-11-05,1:00PM,2017-11-05 13:00:00,New Orleans Saints,Tampa Bay Buccaneers,1
+121,2017-11-05,1:00PM,2017-11-05 13:00:00,Philadelphia Eagles,Denver Broncos,1
+122,2017-11-05,1:00PM,2017-11-05 13:00:00,Tennessee Titans,Baltimore Ravens,1
+123,2017-11-05,1:00PM,2017-11-05 13:00:00,Jacksonville Jaguars,Cincinnati Bengals,1
+124,2017-11-05,1:00PM,2017-11-05 13:00:00,Carolina Panthers,Atlanta Falcons,1
+125,2017-11-05,1:00PM,2017-11-05 13:00:00,New York Giants,Los Angeles Rams,0
+126,2017-11-05,1:00PM,2017-11-05 13:00:00,Houston Texans,Indianapolis Colts,0
+127,2017-11-05,4:05PM,2017-11-05 16:05:00,San Francisco 49ers,Arizona Cardinals,0
+128,2017-11-05,4:05PM,2017-11-05 16:05:00,Seattle Seahawks,Washington Redskins,0
+129,2017-11-05,4:25PM,2017-11-05 16:25:00,Dallas Cowboys,Kansas City Chiefs,1
+130,2017-11-05,8:30PM,2017-11-05 20:30:00,Miami Dolphins,Oakland Raiders,0
+131,2017-11-06,8:30PM,2017-11-06 20:30:00,Green Bay Packers,Detroit Lions,0
+132,2017-11-09,8:25PM,2017-11-09 20:25:00,Arizona Cardinals,Seattle Seahawks,0
+133,2017-11-12,1:00PM,2017-11-12 13:00:00,Chicago Bears,Green Bay Packers,0
+134,2017-11-12,1:00PM,2017-11-12 13:00:00,Washington Redskins,Minnesota Vikings,0
+135,2017-11-12,1:00PM,2017-11-12 13:00:00,Buffalo Bills,New Orleans Saints,0
+136,2017-11-12,1:00PM,2017-11-12 13:00:00,Tennessee Titans,Cincinnati Bengals,1
+137,2017-11-12,1:00PM,2017-11-12 13:00:00,Jacksonville Jaguars,Los Angeles Chargers,1
+138,2017-11-12,1:00PM,2017-11-12 13:00:00,Detroit Lions,Cleveland Browns,1
+139,2017-11-12,1:00PM,2017-11-12 13:00:00,Tampa Bay Buccaneers,New York Jets,1
+140,2017-11-12,1:00PM,2017-11-12 13:00:00,Indianapolis Colts,Pittsburgh Steelers,0
+141,2017-11-12,4:05PM,2017-11-12 16:05:00,Los Angeles Rams,Houston Texans,1
+142,2017-11-12,4:25PM,2017-11-12 16:25:00,Atlanta Falcons,Dallas Cowboys,1
+143,2017-11-12,4:25PM,2017-11-12 16:25:00,San Francisco 49ers,New York Giants,1
+144,2017-11-12,8:30PM,2017-11-12 20:30:00,Denver Broncos,New England Patriots,0
+145,2017-11-13,8:30PM,2017-11-13 20:30:00,Carolina Panthers,Miami Dolphins,1
+146,2017-11-16,8:25PM,2017-11-16 20:25:00,Pittsburgh Steelers,Tennessee Titans,1
+147,2017-11-19,1:00PM,2017-11-19 13:00:00,Minnesota Vikings,Los Angeles Rams,1
+148,2017-11-19,1:00PM,2017-11-19 13:00:00,Houston Texans,Arizona Cardinals,1
+149,2017-11-19,1:00PM,2017-11-19 13:00:00,Cleveland Browns,Jacksonville Jaguars,0
+150,2017-11-19,1:00PM,2017-11-19 13:00:00,Miami Dolphins,Tampa Bay Buccaneers,0
+151,2017-11-19,1:00PM,2017-11-19 13:00:00,New Orleans Saints,Washington Redskins,1
+152,2017-11-19,1:00PM,2017-11-19 13:00:00,Green Bay Packers,Baltimore Ravens,0
+153,2017-11-19,1:00PM,2017-11-19 13:00:00,Chicago Bears,Detroit Lions,0
+154,2017-11-19,1:00PM,2017-11-19 13:00:00,New York Giants,Kansas City Chiefs,1
+155,2017-11-19,4:05PM,2017-11-19 16:05:00,Los Angeles Chargers,Buffalo Bills,1
+156,2017-11-19,4:25PM,2017-11-19 16:25:00,Oakland Raiders,New England Patriots,0
+157,2017-11-19,4:25PM,2017-11-19 16:25:00,Denver Broncos,Cincinnati Bengals,0
+158,2017-11-19,8:30PM,2017-11-19 20:30:00,Dallas Cowboys,Philadelphia Eagles,0
+159,2017-11-20,8:30PM,2017-11-20 20:30:00,Seattle Seahawks,Atlanta Falcons,0
+160,2017-11-23,12:30PM,2017-11-23 12:30:00,Detroit Lions,Minnesota Vikings,0
+161,2017-11-23,4:30PM,2017-11-23 16:30:00,Dallas Cowboys,Los Angeles Chargers,0
+162,2017-11-23,8:30PM,2017-11-23 20:30:00,Washington Redskins,New York Giants,1
+163,2017-11-26,1:00PM,2017-11-26 13:00:00,Atlanta Falcons,Tampa Bay Buccaneers,1
+164,2017-11-26,1:00PM,2017-11-26 13:00:00,New York Jets,Carolina Panthers,0
+165,2017-11-26,1:00PM,2017-11-26 13:00:00,Philadelphia Eagles,Chicago Bears,1
+166,2017-11-26,1:00PM,2017-11-26 13:00:00,Kansas City Chiefs,Buffalo Bills,0
+167,2017-11-26,1:00PM,2017-11-26 13:00:00,Cincinnati Bengals,Cleveland Browns,1
+168,2017-11-26,1:00PM,2017-11-26 13:00:00,Indianapolis Colts,Tennessee Titans,0
+169,2017-11-26,1:00PM,2017-11-26 13:00:00,New England Patriots,Miami Dolphins,1
+170,2017-11-26,4:05PM,2017-11-26 16:05:00,San Francisco 49ers,Seattle Seahawks,0
+171,2017-11-26,4:25PM,2017-11-26 16:25:00,Los Angeles Rams,New Orleans Saints,1
+172,2017-11-26,4:25PM,2017-11-26 16:25:00,Oakland Raiders,Denver Broncos,1
+173,2017-11-26,4:25PM,2017-11-26 16:25:00,Arizona Cardinals,Jacksonville Jaguars,1
+174,2017-11-26,8:30PM,2017-11-26 20:30:00,Pittsburgh Steelers,Green Bay Packers,1
+175,2017-11-27,8:30PM,2017-11-27 20:30:00,Baltimore Ravens,Houston Texans,1
+176,2017-11-30,8:25PM,2017-11-30 20:25:00,Dallas Cowboys,Washington Redskins,1
+177,2017-12-03,1:00PM,2017-12-03 13:00:00,Buffalo Bills,New England Patriots,0
+178,2017-12-03,1:00PM,2017-12-03 13:00:00,Tennessee Titans,Houston Texans,1
+179,2017-12-03,1:00PM,2017-12-03 13:00:00,New York Jets,Kansas City Chiefs,1
+180,2017-12-03,1:00PM,2017-12-03 13:00:00,Jacksonville Jaguars,Indianapolis Colts,1
+181,2017-12-03,1:00PM,2017-12-03 13:00:00,Atlanta Falcons,Minnesota Vikings,0
+182,2017-12-03,1:00PM,2017-12-03 13:00:00,Miami Dolphins,Denver Broncos,1
+183,2017-12-03,1:00PM,2017-12-03 13:00:00,Baltimore Ravens,Detroit Lions,1
+184,2017-12-03,1:00PM,2017-12-03 13:00:00,Green Bay Packers,Tampa Bay Buccaneers,1
+185,2017-12-03,1:00PM,2017-12-03 13:00:00,Chicago Bears,San Francisco 49ers,0
+186,2017-12-03,4:05PM,2017-12-03 16:05:00,Los Angeles Chargers,Cleveland Browns,1
+187,2017-12-03,4:25PM,2017-12-03 16:25:00,Arizona Cardinals,Los Angeles Rams,0
+188,2017-12-03,4:25PM,2017-12-03 16:25:00,Oakland Raiders,New York Giants,1
+189,2017-12-03,4:25PM,2017-12-03 16:25:00,New Orleans Saints,Carolina Panthers,1
+190,2017-12-03,8:30PM,2017-12-03 20:30:00,Seattle Seahawks,Philadelphia Eagles,1
+191,2017-12-04,8:30PM,2017-12-04 20:30:00,Cincinnati Bengals,Pittsburgh Steelers,0
+192,2017-12-07,8:25PM,2017-12-07 20:25:00,Atlanta Falcons,New Orleans Saints,1
+193,2017-12-10,1:00PM,2017-12-10 13:00:00,Carolina Panthers,Minnesota Vikings,1
+194,2017-12-10,1:00PM,2017-12-10 13:00:00,Tampa Bay Buccaneers,Detroit Lions,0
+195,2017-12-10,1:00PM,2017-12-10 13:00:00,Cincinnati Bengals,Chicago Bears,0
+196,2017-12-10,1:00PM,2017-12-10 13:00:00,Cleveland Browns,Green Bay Packers,0
+197,2017-12-10,1:00PM,2017-12-10 13:00:00,New York Giants,Dallas Cowboys,0
+198,2017-12-10,1:00PM,2017-12-10 13:00:00,Buffalo Bills,Indianapolis Colts,1
+199,2017-12-10,1:00PM,2017-12-10 13:00:00,Houston Texans,San Francisco 49ers,0
+200,2017-12-10,1:00PM,2017-12-10 13:00:00,Kansas City Chiefs,Oakland Raiders,1
+201,2017-12-10,4:05PM,2017-12-10 16:05:00,Denver Broncos,New York Jets,1
+202,2017-12-10,4:05PM,2017-12-10 16:05:00,Los Angeles Chargers,Washington Redskins,1
+203,2017-12-10,4:05PM,2017-12-10 16:05:00,Arizona Cardinals,Tennessee Titans,1
+204,2017-12-10,4:25PM,2017-12-10 16:25:00,Jacksonville Jaguars,Seattle Seahawks,1
+205,2017-12-10,4:25PM,2017-12-10 16:25:00,Los Angeles Rams,Philadelphia Eagles,0
+206,2017-12-10,8:30PM,2017-12-10 20:30:00,Pittsburgh Steelers,Baltimore Ravens,1
+207,2017-12-11,8:30PM,2017-12-11 20:30:00,Miami Dolphins,New England Patriots,1
+208,2017-12-14,8:25PM,2017-12-14 20:25:00,Indianapolis Colts,Denver Broncos,0
+209,2017-12-16,4:30PM,2017-12-16 16:30:00,Detroit Lions,Chicago Bears,1
+210,2017-12-16,8:25PM,2017-12-16 20:25:00,Kansas City Chiefs,Los Angeles Chargers,1
+211,2017-12-17,1:00PM,2017-12-17 13:00:00,Washington Redskins,Arizona Cardinals,1
+212,2017-12-17,1:00PM,2017-12-17 13:00:00,Buffalo Bills,Miami Dolphins,1
+213,2017-12-17,1:00PM,2017-12-17 13:00:00,Jacksonville Jaguars,Houston Texans,1
+214,2017-12-17,1:00PM,2017-12-17 13:00:00,New Orleans Saints,New York Jets,1
+215,2017-12-17,1:00PM,2017-12-17 13:00:00,New York Giants,Philadelphia Eagles,0
+216,2017-12-17,1:00PM,2017-12-17 13:00:00,Carolina Panthers,Green Bay Packers,1
+217,2017-12-17,1:00PM,2017-12-17 13:00:00,Minnesota Vikings,Cincinnati Bengals,1
+218,2017-12-17,1:00PM,2017-12-17 13:00:00,Cleveland Browns,Baltimore Ravens,0
+219,2017-12-17,4:05PM,2017-12-17 16:05:00,Seattle Seahawks,Los Angeles Rams,0
+220,2017-12-17,4:25PM,2017-12-17 16:25:00,San Francisco 49ers,Tennessee Titans,1
+221,2017-12-17,4:25PM,2017-12-17 16:25:00,Pittsburgh Steelers,New England Patriots,0
+222,2017-12-17,8:30PM,2017-12-17 20:30:00,Oakland Raiders,Dallas Cowboys,0
+223,2017-12-18,8:30PM,2017-12-18 20:30:00,Tampa Bay Buccaneers,Atlanta Falcons,0
+224,2017-12-23,4:30PM,2017-12-23 16:30:00,Baltimore Ravens,Indianapolis Colts,1
+225,2017-12-23,8:30PM,2017-12-23 20:30:00,Green Bay Packers,Minnesota Vikings,0
+226,2017-12-24,1:00PM,2017-12-24 13:00:00,New Orleans Saints,Atlanta Falcons,1
+227,2017-12-24,1:00PM,2017-12-24 13:00:00,Carolina Panthers,Tampa Bay Buccaneers,1
+228,2017-12-24,1:00PM,2017-12-24 13:00:00,Chicago Bears,Cleveland Browns,1
+229,2017-12-24,1:00PM,2017-12-24 13:00:00,Cincinnati Bengals,Detroit Lions,1
+230,2017-12-24,1:00PM,2017-12-24 13:00:00,New England Patriots,Buffalo Bills,1
+231,2017-12-24,1:00PM,2017-12-24 13:00:00,New York Jets,Los Angeles Chargers,0
+232,2017-12-24,1:00PM,2017-12-24 13:00:00,Tennessee Titans,Los Angeles Rams,0
+233,2017-12-24,1:00PM,2017-12-24 13:00:00,Washington Redskins,Denver Broncos,1
+234,2017-12-24,1:00PM,2017-12-24 13:00:00,Kansas City Chiefs,Miami Dolphins,1
+235,2017-12-24,4:05PM,2017-12-24 16:05:00,San Francisco 49ers,Jacksonville Jaguars,1
+236,2017-12-24,4:25PM,2017-12-24 16:25:00,Arizona Cardinals,New York Giants,1
+237,2017-12-24,4:25PM,2017-12-24 16:25:00,Dallas Cowboys,Seattle Seahawks,0
+238,2017-12-25,4:30PM,2017-12-25 16:30:00,Houston Texans,Pittsburgh Steelers,0
+239,2017-12-25,8:30PM,2017-12-25 20:30:00,Philadelphia Eagles,Oakland Raiders,1
+240,2017-12-31,1:00PM,2017-12-31 13:00:00,New England Patriots,New York Jets,1
+241,2017-12-31,1:00PM,2017-12-31 13:00:00,Philadelphia Eagles,Dallas Cowboys,0
+242,2017-12-31,1:00PM,2017-12-31 13:00:00,New York Giants,Washington Redskins,1
+243,2017-12-31,1:00PM,2017-12-31 13:00:00,Pittsburgh Steelers,Cleveland Browns,1
+244,2017-12-31,1:00PM,2017-12-31 13:00:00,Detroit Lions,Green Bay Packers,1
+245,2017-12-31,1:00PM,2017-12-31 13:00:00,Minnesota Vikings,Chicago Bears,1
+246,2017-12-31,1:00PM,2017-12-31 13:00:00,Indianapolis Colts,Houston Texans,1
+247,2017-12-31,4:25PM,2017-12-31 16:25:00,Tampa Bay Buccaneers,New Orleans Saints,1
+248,2017-12-31,4:25PM,2017-12-31 16:25:00,Seattle Seahawks,Arizona Cardinals,0
+249,2017-12-31,4:25PM,2017-12-31 16:25:00,Miami Dolphins,Buffalo Bills,0
+250,2017-12-31,4:25PM,2017-12-31 16:25:00,Denver Broncos,Kansas City Chiefs,0
+251,2017-12-31,4:25PM,2017-12-31 16:25:00,Los Angeles Chargers,Oakland Raiders,1
+252,2017-12-31,4:25PM,2017-12-31 16:25:00,Tennessee Titans,Jacksonville Jaguars,1
+253,2017-12-31,4:25PM,2017-12-31 16:25:00,Atlanta Falcons,Carolina Panthers,1
+254,2017-12-31,4:25PM,2017-12-31 16:25:00,Los Angeles Rams,San Francisco 49ers,0
+255,2017-12-31,4:25PM,2017-12-31 16:25:00,Baltimore Ravens,Cincinnati Bengals,0
