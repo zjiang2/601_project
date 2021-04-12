@@ -20,13 +20,13 @@ New-England-Patriots	#patriots #newenglandpatriots #pats #nepats #nepatriots #go
 New-Orleans-Saints	#saints #neworleanssaints #nosaints #gosaints #gosaintsgo #letsgosaints #saintnation #saintsnation
 New-York-Giants	#giants #newyorkgiants #newyorkfootballgiants #nygiants #nyg #nygmen #gmen #gogiants #gonygiants #gogiantsgo #letsgogiants #giantsnation #giantnation
 New-York-Jets	#jets #newyorkjets #jetlife #nyjets #jetsjetsjets #gojets #gojetsgo #letsgojets #jetnation #jetsnation
-Las-Vegas-Raiders	#raiders #oaklandraiders #silverandblack #goraiders #goraidersgo #letsgoraiders #raidernation #raidersnation
+Las-Vegas-Raiders	#raiders #lasvegasraiders #oaklandraiders #silverandblack #goraiders #goraidersgo #letsgoraiders #raidernation #raidersnation
 Philadelphia-Eagles	#eagles #philadelphiaeagles #flyeaglesfly #iggles #goeagles #goeaglesgo #letsgoeagles #eaglenation #eaglesnation
 Pittsburgh-Steelers	#steelers #pittsburghsteelers #stillers #gosteelers #gosteelersgo #letsgosteelers #gostillers #gostillersgo #letsgostillers #stillernation #stillersnation #steelernation #steelersnation
-Los-Angeles-Chargers	#chargers #losangeleschargers #lachargers #gochargers #letsgochargers #gochargersgo #chargernation #chargersnation
+Los-Angeles-Chargers	#chargers #sandiegochargers #sdchargers #losangeleschargers #lachargers #gochargers #letsgochargers #gochargersgo #chargernation #chargersnation
 Seattle-Seahawks	#seahawks #seattleseahawks #goseahawks #letsgoseahawks #goseahawksgo #seahawknation #seahawksnation
 San-Francisco-49ers	#49ers #sanfrancisco49ers #sf49ers #niners #sfniners #goniners #goninersgo #letsgoniners #go49ers #go49ersgo #letsgo49ers #49ernation #49ersnation #ninernation #ninersnation
-Los-Angeles-Rams	#rams #losangelesrams #larams #gorams #goramsgo #letsgorams #ramsnation #ramnation
+Los-Angeles-Rams	#rams #stlouisrams #stlrams #losangelesrams #larams #gorams #goramsgo #letsgorams #ramsnation #ramnation
 Tampa-Bay-Buccaneers	#buccaneers #tampabaybuccaneers #bucs #tampabaybucs #tbbuccaneers #tbbucs #gobucsgo #gobucs #letsgobucs #gobuccaneers #letsgobuccaneers #bucnation #bucsnation
 Tennessee-Titans	#titans #tennesseetitans #gotitans #letsgotitans #gotitansgo #titansnation #titannation
-Washington-Football-Team	#redskins #washingtonredskins #redskinsdisciples #redskindisciples #goredskins #goredskinsgo #letsgoredskins #goskins #goskinsgo #letsgoskins #redskinsnation #redskinnation
+Washington-Football-Team	#redskins #washingtonredskins #redskinsdisciples #redskindisciples #goredskins #goredskinsgo #letsgoredskins #goskins #goskinsgo #letsgoskins #redskinsnation #redskinnation #washingtonfootballteam
