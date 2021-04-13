@@ -4,6 +4,7 @@ import numpy as np
 import re
 import datetime
 import nltk
+from nltk.stem import PorterStemmer
 
 unigram_corpus = {}
 bigram_corpus = {}
@@ -11,7 +12,8 @@ bigram_corpus = {}
 # count unigrams
 def count_unigrams(tweet):
     global unigram_corpus
-    words = tweet.split(" ")
+    words = re.sub('[^a-zA-Z#@]','',tweet).split()
+    words = [stemmer.stem(word) for word in words]
     for word in words:
         if word in unigram_corpus:
             unigram_corpus[word] += 1
@@ -21,7 +23,9 @@ def count_unigrams(tweet):
 # get bigrams from the list of tweets
 def count_bigrams(tweet):
     global bigram_corpus
-    bigrams = nltk.bigrams(tweet.split(" "))
+    words = re.sub('[^a-zA-Z#@]','',tweet).split()
+    words = [stemmer.stem(word) for word in words]
+    bigrams = nltk.bigrams(words)
     for bg in bigrams:
         if bg in bigram_corpus:
             bigram_corpus[bg] += 1
